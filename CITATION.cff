@@ -1,23 +1,23 @@
 cff-version: 1.2.0
-title: "Forge Ecosystem — Constitutional and Governance Architecture"
+title: "Conditional Boundedness - Switching Control Architecture"
 message: "If you use this work, please cite it as below."
 type: software
 
 authors:
   - name: "Mettle Forge Lab"
 
-repository-code: "https://github.com/MettleForgeLab/ForgeEcosystem"
+repository-code: "https://github.com/MettleForgeLab/bounded-switching-architecture-specification"
 
 license: "CC-BY-SA-4.0"
 
-version: "v1.0.0"
+version: "v1.0.1"
 
-date-released: 2026-02-14
+date-released: 2026-02-15
 
 abstract: >
-  The Forge Ecosystem defines a distributed constitutional framework
-  for designing, deploying, and governing humane language systems.
-  It establishes layered separation between training geometry,
-  switching policy, deployment membrane constraints, and governance.
-  This repository serves as the canonical source for Forge-based
-  architectural and stability specifications.
+  Conditional Boundedness presents a control-system architecture
+  for governed language-model behavior. It develops a formal
+  switching policy for conditional expansion, contraction, mode
+  selection, and stopping within constitutional constraints.
+  The repository includes architectural research, mathematical
+  specifications, and perturbation-evaluation materials.

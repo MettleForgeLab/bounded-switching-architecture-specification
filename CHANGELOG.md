@@ -1,23 +1,34 @@
 # Changelog
 
-All notable changes to this repository will be documented here.
-
-The format follows semantic versioning defined in VERSIONING.md.
+All notable changes to Conditional Boundedness are recorded here.
+Versioning conventions are described in VERSIONING.md.
 
 ---
 
-## v1.0.0 — 2026-02-14
+## Unreleased - Publication metadata correction
 
-Initial canonical publication.
+- Correct copied Forge Ecosystem identification in publication metadata.
+- No change to the switching specification or evaluation materials.
+
+---
+
+## v1.0.1 - 2026-02-15
+
+- Clarified README layer presentation and dependency relationships.
+- No behavioral or specification changes.
+
+---
+
+## v1.0.0 - 2026-02-15
+
+Initial public release.
 
 Includes:
 
-- Forge Ecosystem Executive Brief
-- Forge Ecosystem Master Specification
-- Canonical glossary alignment
-- Architectural stack documentation
-- Governance structure and constitutional layer definition
+- Conditional Boundedness white paper
+- Formal switching-policy specification
+- Evaluation harness and perturbation materials
 
 ---
 
-Future revisions will be recorded here with explicit version increment and scope notes.
+Historical release tags remain unchanged.
